@@ -55,9 +55,9 @@ function Header() {
          
       <Link href="/" className="text-[#007580]">Home</Link>
       <Link href="/shop" className="hover:text-[#007580]">Shop</Link>
-      <a href="#" className="hover:text-[#007580]">Product</a>
+      <Link href="/Product" className="hover:text-[#007580]">Product</Link>
       <Link href="/Contact" className="hover:text-[#007580]">Contact</Link>
-      <a href="#" className="hover:text-[#007580]">About</a>
+      <a href="/About" className="hover:text-[#007580]">About</a>
         
         </nav></div>
     
